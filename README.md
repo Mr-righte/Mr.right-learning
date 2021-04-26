@@ -2,7 +2,7 @@
 
 #### hello wold
 
-[谷歌](http://www.google.com/)
+[百度](http://www.baidu.com/)
 
 see README→[here](./README.md)
 
