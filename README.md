@@ -8,7 +8,7 @@ see README→[here](./README.md)
 
 see picture→[here](./58031639_p0.jpg)
 
-![github](https://img1.baidu.com/it/u=4253182154,1533149835&fm=26&fmt=auto&gp=0.jpg)
+![github](https://github.com/Mr-righte/Mr.right-learning/blob/main/1.jpg)
 
 ```c++
 #include <iostream>
