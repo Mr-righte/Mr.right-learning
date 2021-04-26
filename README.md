@@ -6,7 +6,7 @@
 
 see README→[here](./README.md)
 
-see picture→[here](./github.png)
+see picture→[here](./01.png)
 
 ![github](https://github.com/Mr-righte/Mr.right-learning/blob/main/1.jpg)
 
