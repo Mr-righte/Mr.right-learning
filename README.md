@@ -4,7 +4,7 @@
 
 [百度](http://www.baidu.com/)
 
-see Mr.right→[here](./Mr.right)
+see Mr.right→[here](./Mr.right.md)
 
 see picture→[here](./01.png)
 
